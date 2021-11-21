@@ -1,0 +1,30 @@
+{
+  "name": "cleanblog",
+  "version": "1.0.0",
+  "description": "Blog Project",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15",
+    "prettier": "^2.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frknksknklc/CleanBlog.git"
+  },
+  "keywords": [
+    "Blog",
+    "project"
+  ],
+  "author": "Furkan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frknksknklc/CleanBlog/issues"
+  },
+  "homepage": "https://github.com/frknksknklc/CleanBlog#readme"
+}
